@@ -97,7 +97,7 @@ a:hover, a:active {
 }
 
 
-.show-modal {
+.modal-show {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -186,7 +186,6 @@ button:focus {
 }
 
 
-/* test */
 
 
 
