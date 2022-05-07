@@ -34,7 +34,7 @@ h1:hover {
 
 /* Bookmarks */
 
-.container {
+.bookmarks-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -185,15 +185,8 @@ button:focus {
   outline: none;
 }
 
-
-
-
-
-
-
-
 @media screen and (max-width: 600px) {
-  .container {
+  .bookmarks-container {
     flex-direction: column;
   }
 }
